@@ -9,7 +9,7 @@
         - Le mode local  
 
             - WordPress peut etre installer sur un serveur local pour les 3 systèmes suivants :  
-    
+
                 - Mac OS  
                 
                 - Windows  
@@ -17,7 +17,7 @@
                 - Linux  
 
             - On peut diviser la procédure en 2 étapes : 
-        
+
                 - Il va falloir installer le logiciel LocalWP sur votre ordinateur pour de créer un serveur local
                 
                 - Puis a l’intérieur, installer un nouveau site WordPress
@@ -289,7 +289,7 @@
         - ***La barre d’outils***
 
             - La barre d’outils est composée de liens vers diverses fonctions d’administration et se trouve en haut de chaque écran d’administration.  
-            
+
                 - Certains éléments de cette barre affichent un menu déroulant lorsque vous les survolez.  
 
         - ***Le menu de navigation principal***
@@ -297,7 +297,7 @@
             - Toute fonction administrative que vous pouvez effectuer est détaillée par le menu de navigation principal. Un sous-menu apparaît lorsque vous survolez un élément dans le menu. Ce sous-menu est totalement développé lorsque vous cliquez sur un élément.
 
             - le menu de navigation est constitué des éléments suivants :  
-            
+
                 - Tableau de bord (Dashboard)  
                 
                 - Accueil  
@@ -319,7 +319,7 @@
                 - Outils  
                 
                 - Réglages  
-                
+
                     - En bas de la section se trouve un bouton Réduire le menu.  
 
         - ***L’espace de travail***
@@ -335,7 +335,7 @@
         - WordPress vous offre la possibilité de gérer les droits et permissions des utilisateurs de votre site grâce à son système de « rôles ».
 
         - En accédant au menu ***« Comptes »*** de la section menu principal, nous avons trois éléments qui s’affichent avec lesquels vous pouvez gerer :  
-        
+
             - ***Tous les comptes***  
 
                 - Modifier  
@@ -379,7 +379,7 @@
         - ***Le rôle Éditeur***  
 
             - Un éditeur peut :  
-            
+
                 - Ecrire  
                 
                 - Editer  
@@ -401,7 +401,7 @@
         - ***Le rôle Auteur***  
 
             - Il peut : 
-            
+
                 - Ecrire  
                 
                 - Editer  
@@ -419,8 +419,6 @@
             - Il permet d’écrire un article sur le site et de le supprimer, mais il ne lui permet pas de publier ou de modifier l’article.  
 
             -  le contributeur ne peut pas ajouter d’images à l’article qu’il a écrit. Il faut un éditeur ou l’administrateur du site même pour modifier l’article afin d’intégrer l’image.  
-
-            -
 
         - ***Le rôle Abonné***  
 
@@ -447,7 +445,7 @@
                 - Installer et activer l’extension :  
 
                     - Accéder à la bibliothèque des extensions.  
-                    
+
                         - ***« Extensions »*** puis ***« Ajouter »***
 
                         - Rechercher l’extension ***« User Role Editor »***  
@@ -554,7 +552,6 @@
 
                 - Le lien Afficher ouvre une page qui présente les articles publiés par l’utilisateur.  
 
- 
 ##
 ## ***__Les solutions de paiement en ligne__***  
 
@@ -827,7 +824,7 @@
                     - La conception des logiciels
                     
                     - D'autres mesures de protection essentielles  
-                    
+
                         - Elle existe pour accompagner les entreprises à protéger les données de leurs clients.  
 
                 - Il s’agit d’une norme à respecter pour pouvoir garantir la confidentialité et la sécurité de toutes les transactions. Ce cadre est prévu pour protéger les données bancaires.  
@@ -891,4 +888,3 @@
                     - Permet de protéger les données et les traces que laisse derrière lui le visiteur. Pour faire clair, sur un site de vente en ligne, cela renforce la sécurité et permet que les informations renseignées ne soient pas déchiffrées, interceptées ou détournées.  
 
                 - Concrètement SSL veut dire « Secure Sockets Layer ». C’est un certificat numérique et il est facile de vérifier la mise en place de ce certificat sur n’importe quel site en regardant la barre de recherche du navigateur, à gauche de l’URL : il faut tout simplement vérifier que le cadenas qui précède l’URL est bien fermé.
-
